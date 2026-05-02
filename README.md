@@ -1,6 +1,6 @@
 # Hi, I'm Ankit.
 
-```text
+```console
 radical@github:~$ ./mostly
 developer infrastructure:
   currently at Microsoft, working on Aspire
