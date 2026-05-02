@@ -1,20 +1,21 @@
 # Hi, I'm Ankit.
 
 ```console
-radical@github:~$ ./mostly
+radical:~$ ./mostly
+  currently: Microsoft / Aspire
+
   developer infrastructure:
-    currently at Microsoft, working on Aspire
     builds, CI, tests, packaging, releases,
     and the bits in between that make large projects shippable
 
-radical@github:~$ ./public-trail
+radical:~$ ./public-trail
   Aspire
   WebAssembly in dotnet/runtime
   Mono, MonoDevelop, class libraries, IL assembly tooling
   Xamarin build tooling
   Novell/SUSE
 
-radical@github:~$ ls rabbit-holes/
+radical:~$ ls rabbit-holes/
   linux-filesystems/
   graphics-rendering-small-game-engines/
   vim-tmux-terminal-workflows/
