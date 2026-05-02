@@ -2,10 +2,10 @@
 
 ```console
 radical@github:~$ ./mostly
-developer infrastructure:
-  currently at Microsoft, working on Aspire
-  builds, CI, tests, packaging, releases,
-  and the bits in between that make large projects shippable
+  developer infrastructure:
+    currently at Microsoft, working on Aspire
+    builds, CI, tests, packaging, releases,
+    and the bits in between that make large projects shippable
 
 radical@github:~$ ./public-trail
   Novell/SUSE, Mono, MonoDevelop, class libraries, IL assembly tooling
