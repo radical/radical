@@ -14,11 +14,11 @@ radical@github:~$ ./public-trail
   Xamarin build tooling
   Novell/SUSE
 
-radical@github:~$ ./rabbit-holes
-  - Linux/filesystems
-  - graphics/rendering and small game engines
-  - editors
-  - AI agents, orchestration, and other token-shaped things
+radical@github:~$ ls rabbit-holes/
+  linux-filesystems/
+  graphics-rendering-small-game-engines/
+  vim-tmux-terminal-workflows/
+  ai-agents-orchestration/
 ```
 
 <details>
