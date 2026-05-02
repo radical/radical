@@ -25,9 +25,9 @@ radical:~$ ls rabbit-holes/
 <details>
 <summary>Some public breadcrumbs</summary>
 
-- [Aspire](https://github.com/microsoft/aspire) CLI, packaging, tests, and release infrastructure
+- [Aspire](https://aspire.dev) CLI, packaging, tests, and release infrastructure
 - WebAssembly work in [`dotnet/runtime`](https://github.com/dotnet/runtime)
-- Mono-era work: [Mono](https://github.com/mono/mono), [MonoDevelop](https://github.com/mono/monodevelop), class libraries, IL assembly tooling
+- Mono-era work: [Mono](https://github.com/mono/mono), MonoDevelop, class libraries, IL assembly tooling
 - Novell/SUSE and Linux filesystem/kernel bits here and there
 - Old graphics/rendering and game-engine experiments
 - Some ancient 3D demos live on [YouTube](https://www.youtube.com/radicalj)
