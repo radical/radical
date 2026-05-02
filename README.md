@@ -31,3 +31,5 @@ radical@github:~$ ./rabbit-holes
 - Occasional AI-agent and orchestration experiments, some of them token-shaped
 
 </details>
+
+<!-- profile-readme -->
